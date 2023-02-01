@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image:url("https://camo.envatousercontent.com/86437a2a50b9afeb4e3c2ae9c3817966c86af45c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966"); background-repeat:repeat; 
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    place-items: center;
+    overflow: hidden;
+    font-family: poppins;
+  }
